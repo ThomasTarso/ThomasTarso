@@ -13,8 +13,6 @@
 </picture>
 
 
-
-
 <br/>
 
 <!-- TERMINAL MONOCROMÁTICO (ZERO FONTE PADRÃO) -->
