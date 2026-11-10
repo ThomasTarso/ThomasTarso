@@ -56,5 +56,5 @@
 <br/>
 
 <pre align="center">
-                                                     GW GAMES 2026
+                                                          GW GAMES 2026
 </pre>
