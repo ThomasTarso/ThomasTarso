@@ -25,7 +25,7 @@
   </tr>
   <tr>
     <td colspan="4" align="center">
-      COLLECTED (003/250): <span>Test Collectible #2</span> <span>Test Collectible #1</span> <span>Test Collectible #3</span>
+      COLETADO (003/250): <span>Teste Coletável #2</span> <span>Teste Coletável #1</span> <span>Teste Coletável #3</span>
     </td>
   </tr>
 </table>
