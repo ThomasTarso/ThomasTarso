@@ -5,12 +5,6 @@
   </a>
 </div>
 
-<!-- TEXTO PIXELADO 8-BITS (FONTE PRESS START 2P - MONOCROMÁTICO) -->
-<div align="center">
-  <a href="https://gathware.vercel.app/games">
-    <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=14& duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=750&lines=RECORDE+000000+%7C+GW+GAMES+2026;THOMAS+TARSO+%3A%3A+DEV+%26+INFRA;GATHWARE+SYSTEMS+%5B+MONO+MODE+%5D" alt="Arcade Header" />
-  </a>
-</div>
 
 <!-- JOGUINHO DA COBRINHA + PROMPT $ whoami -->
 <div align="center">
@@ -62,5 +56,5 @@
 <br/>
 
 <pre align="center">
-RECORDE 000000                                            GW GAMES 2026
+                                                     GW GAMES 2026
 </pre>
