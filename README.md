@@ -1,89 +1,60 @@
-<!-- HEADER ONDULADO -->
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f24,100:1e3a8a&height=180&section=header&text=Thomas%20T%C3%A1rso&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=An%C3%A1lise%20e%20Desenvolvimento%20de%20Sistemas%20%E2%80%A2%20Dev%20%26%20Infra&descAlignY=60&descSize=18" />
-</div>
-
-<!-- TEXTO ANIMADO (TYPING SVG) -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Desenvolvedor+Kotlin+%26+Python+%F0%9F%92%BB;Especialista+em+Redes%2C+Hardware+e+Diagn%C3%B3stico+%F0%9F%9B%A0%EF%B8%8F;Criador+de+Rob%C3%B3tica+Educacional+e+Sustent%C3%A1vel+%F0%9F%A4%96;Projetando+sistemas+s%C3%B3lidos+do+zero+(com+ou+sem+uma+p%C3%A1)+%E2%9B%8F%EF%B8%8F" alt="Typing SVG" />
+  <!-- Substitua o link abaixo pelo link real da imagem do seu banner no GitHub -->
+  <a href="URL_DO_SITE_DA_GATHWARE">
+    <img src="LINK_DO_BANNER_GATHWARE_AQUI" alt="Gathware Banner" width="600" />
   </a>
 </div>
 
 <br/>
 
-## ⚔️ Sobre o Desenvolvedor-Chefe
+<div align="center">
+  <code>[ INICIANDO SISTEMA... ]</code><br>
+  <code>[ BEM-VINDO, THOMAS TÁRSO. ]</code>
+</div>
 
-> *"Água é boa. Código limpo, redes seguras e sistemas bem arquitetados também."*
+<br/>
 
-Olá! Sou **Thomas Társo**, estudante de **Análise e Desenvolvimento de Sistemas (ADS)**, técnico em TI e entusiasta de engenharia criativa. Gosto de construir soluções que funcionam no mundo real — desde aplicações desktop interativas e ferramentas mobile até infraestrutura de redes e robôs construídos com hardware reaproveitado.
-
-- 🔭 **Em construção no canteiro de obras:** Desenvolvendo aplicações interativas em **Python** (Tkinter / Pygame) e projetos mobile em **Kotlin**.
-- 🌐 **Infraestrutura & Redes:** Experiência prática em manutenção avançada de hardware, diagnóstico de sistemas Windows/Linux e implementação de servidores VPN (**WireGuard**) e soluções **NAS**.
-- 🤖 **Inovação & Pesquisa:** Atuação em projetos de conectividade e criação de kits de **robótica desplugada e sustentável** para educação.
-- 🎨 **Fora do terminal:** Ilustração digital (concept art de fantasia sombria), criação de props físicos e jogos de gerenciamento/estratégia.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&weight=400&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=>+Desenvolvedor+e+Engenheiro+de+Infraestrutura;>+Gathware+Systems+Online;>+Sistemas,+Redes+e+Hardware" alt="Typing Terminal" />
+</div>
 
 ---
 
-## 🛠️ Arsenal Técnico & Ferramentas
+<div align="center">
+  <h3>> DIRETÓRIO_PRINCIPAL: GATHWARE</h3>
+  <p><i>Desenvolvimento de Jogos, Pixel Art e Infraestrutura</i></p>
+  <a href="https://gathware.vercel.app/">
+    <img src="https://img.shields.io/badge/Acessar_Site_da_Gathware-000000?style=for-the-badge&logo=retroarch&logoColor=white&border_color=ffffff" alt="Gathware Link" />
+  </a>
+</div>
+
+---
 
 <div align="center">
-  <p><b>Linguagens, IDEs & Sistemas</b></p>
+  <h3>> STACK_TECNOLÓGICA.exe</h3>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,python,git,github,linux,windows,powershell&theme=dark" alt="Skills" />
+    <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,python,git,github,windows&theme=dark" alt="Skills" />
   </a>
 </div>
 
-<br/>
+---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Python-Tkinter_%7C_Pygame_%7C_PyInstaller-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redes-WireGuard_VPN_%7C_Infraestrutura-88171A?style=for-the-badge&logo=wireguard&logoColor=white" />
-  <img src="https://img.shields.io/badge/Hardware-Manuten%C3%A7%C3%A3o_%26_Rob%C3%B3tica-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <h3>> STATUS_DO_SERVIDOR</h3>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ThomasTarso&theme=radical&show_icons=true&hide_border=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff" alt="GitHub Stats" />
 </div>
 
 ---
 
-## 🏗️ Obras e Projetos em Destaque
-
-| Projeto / Área | Descrição da Obra | Tecnologias |
-| :--- | :--- | :--- |
-| 🗺️ **Maprojeto** | Aplicação desktop interativa com mapa dinâmico dos estados brasileiros, mascotes regionais customizados e sistema de cards de projetos. | `Python` `Tkinter` `Pygame` `PyInstaller` |
-| 🤖 **Robótica Sustentável** | Desenvolvimento de kits educacionais e robôs desenhistas utilizando materiais recicláveis e motores de vibração reaproveitados. | `Hardware` `Eletrônica` `Educação` |
-| 🛡️ **Infraestrutura & VPN** | Configuração de servidores VPN auto-hospedados, especificação de storages NAS e diagnóstico profundo de redes. | `WireGuard` `Redes` `CLI` `NAS` |
-
----
-
-## 📊 Estatísticas do Domínio
-
 <div align="center">
-  <img height="165em" src="https://streak-stats.demolab.com?user=ThomasTarso&theme=tokyonight&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThomasTarso&layout=compact&theme=tokyonight&hide_border=true&locale=pt_BR" alt="Top Languages" />
-</div>
-
----
-
-## 🤝 Alianças & Contato
-
-<div align="center">
-  <p>Precisa de um desenvolvedor para levantar um projeto do chão ou resolver um problema crítico de infraestrutura?</p>
-  
+  <h3>> ESTABELECER_CONEXÃO</h3>
   <a href="mailto:SEU_EMAIL_AQUI@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="Gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/SEU_LINKEDIN_AQUI/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://linkedin.com/in/SEU_LINKEDIN_AQUI">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="LinkedIn" />
   </a>
-</div>
-
-<br/>
-
-<!-- CONTADOR DE VISITANTES FUNCIONAL -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ThomasTarso&label=Visitantes+na+Propriedade&color=1e3a8a&style=for-the-badge" alt="Visitors Count" />
-</div>
-
-<!-- RODAPÉ ONDULADO -->
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0f24,100:1e3a8a&height=120&section=footer" />
+  <a href="https://instagram.com/SEU_INSTAGRAM_AQUI">
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="Instagram" />
+  </a>
 </div>
