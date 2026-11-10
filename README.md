@@ -6,12 +6,10 @@
 </div>
 
 
-## 🕹️ Meu Gráfico Arcade
-
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ThomasTarso/">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ThomasTarso/">
-  <img alt="Pac-Man contribution graph" src="https://github.com/ThomasTarso/">
+    <source media="(prefers-color-scheme: dark)" srcset="assets/demo/breakout-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="assets/demo/breakout.svg">
+    <img alt="breakout contribution graph" src="assets/demo/breakout.svg">
 </picture>
 
 
