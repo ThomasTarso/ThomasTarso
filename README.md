@@ -6,12 +6,13 @@
 </div>
 
 
-<!-- DINO JUMP GAME (API PÚBLICA) -->
+<!-- BREAKME INCREMENTAL GAME (URL RAW CORRETA) -->
 <div align="center">
-  <img src="https://vercel.app" alt="Dino Game" width="100%" />
+  <img src="https://githubusercontent.com" alt="BREAKME Game" width="100%" />
   <br/><br/>
-  <kbd><code>$ ./dino_run.exe</code></kbd>
+  <kbd><code>$ ./breakme --idle-damage</code></kbd>
 </div>
+
 
 
 <br/>
