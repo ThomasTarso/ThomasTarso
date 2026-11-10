@@ -6,11 +6,11 @@
 </div>
 
 
-<!-- DINO JUMP GAME (ANIMAÇÃO EM SVG) -->
+<!-- BREAKME INCREMENTAL GAME (ANIMAÇÃO EM SVG) -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/kunaal43/github-dino-game/output/github-dino-game-dark.svg" alt="Dino Game" width="100%" />
+  <img src="https://githubusercontent.com" alt="BREAKME Game" width="100%" />
   <br/><br/>
-  <kbd><code>$ ./dino_run.exe</code></kbd>
+  <kbd><code>$ ./breakme --idle-damage</code></kbd>
 </div>
 
 <br/>
