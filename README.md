@@ -6,23 +6,23 @@
 </div>
 
 
-<!-- JOGUINHO DA COBRINHA + PROMPT $ whoami -->
+<!-- DINO JUMP GAME (ANIMAÇÃO EM SVG) -->
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Game" />
+  <img src="https://raw.githubusercontent.com/kunaal43/github-dino-game/output/github-dino-game-dark.svg" alt="Dino Game" width="100%" />
   <br/><br/>
-  <kbd><code>$ whoami</code></kbd>
+  <kbd><code>$ ./dino_run.exe</code></kbd>
 </div>
 
 <br/>
 
 <!-- TERMINAL MONOCROMÁTICO (ZERO FONTE PADRÃO) -->
 <pre align="center">
-┌──────────────────────────────────────────────────────────────────────┐
-│  USUÁRIO   : Thomas Társo                                            │
-│  DIVISÃO   : Gathware // GW Games                                    │
-│  OPERACIONAL: Desenvolvimento de Sistemas, Jogos 2D, Redes & Hardware│
-│  STATUS    : [████████████████████] 100% ONLINE                      │
-└──────────────────────────────────────────────────────────────────────┘
+┌─────────────────────────────────────────────────────────────────────────┐
+│  USUÁRIO   : Thomas Társo                                               │
+│  DIVISÃO   : Gathware // GW Games                                       │
+│  OPERACIONAL: Desenvolvimento de Sistemas, Jogos 2D, Redes & Hardware   │
+│  STATUS    : [████████████████████] 100% ONLINE                         │
+└─────────────────────────────────────────────────────────────────────────┘
 </pre>
 
 <div align="center">
