@@ -8,7 +8,7 @@
 
 <!-- BREAKME INCREMENTAL GAME (ANIMAÇÃO EM SVG) -->
 <div align="center">
-  <img src="https://githubusercontent.com" alt="BREAKME Game" width="100%" />
+  <img src="https://github.com/ThomasTarso/" alt="BREAKME Game" width="100%" />
   <br/><br/>
   <kbd><code>$ ./breakme --idle-damage</code></kbd>
 </div>
