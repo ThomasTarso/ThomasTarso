@@ -6,9 +6,9 @@
 </div>
 
 
-<!-- DINO JUMP GAME (ANIMAÇÃO EM SVG DIRETA) -->
+<!-- DINO JUMP GAME (API PÚBLICA) -->
 <div align="center">
-  <img src="https://githubusercontent.com" alt="Dino Game" width="100%" />
+  <img src="https://vercel.app" alt="Dino Game" width="100%" />
   <br/><br/>
   <kbd><code>$ ./dino_run.exe</code></kbd>
 </div>
