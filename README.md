@@ -6,12 +6,14 @@
 </div>
 
 
-<!-- BREAKME INCREMENTAL GAME (URL RAW CORRETA) -->
-<div align="center">
-  <img src="https://githubusercontent.com" alt="BREAKME Game" width="100%" />
-  <br/><br/>
-  <kbd><code>$ ./breakme --idle-damage</code></kbd>
-</div>
+## 🕹️ Meu Gráfico Arcade
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ThomasTarso/">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/ThomasTarso/">
+  <img alt="Pac-Man contribution graph" src="https://github.com/ThomasTarso/">
+</picture>
+
 
 
 
