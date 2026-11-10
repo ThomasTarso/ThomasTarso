@@ -6,12 +6,32 @@
 </div>
 
 
-<!-- BREAKME INCREMENTAL GAME (ANIMAÇÃO EM SVG) -->
+<!-- BREAKME:START -->
 <div align="center">
-  <img src="https://github.com/ThomasTarso/" alt="BREAKME Game" width="100%" />
-  <br/><br/>
-  <kbd><code>$ ./breakme --idle-damage</code></kbd>
+
+## BREAKME.md
+
+<table align="center" width="640" style="width: 100%; max-width: 640px;">
+  <tr>
+    <td align="center" width="25%">⛰️<i>CHUNK</i><b>#004</b></td>
+    <td align="center" width="25%">🪨<i>TILE</i><b>#045</b></td>
+    <td align="center" width="25%">🔥<i>STREAK</i><b>#002</b></td>
+    <td align="center" width="25%">⛏️<i>BROKEN</i><b>#493</b></td>
+  </tr>
+  <tr>
+    <td colspan="4" align="center">
+      <img src="./BREAKME-board.svg" width="640" alt="BREAKME.md Board" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="4" align="center">
+      COLLECTED (003/250): <span>Test Collectible #2</span> <span>Test Collectible #1</span> <span>Test Collectible #3</span>
+    </td>
+  </tr>
+</table>
+
 </div>
+<!-- BREAKME:END -->
 
 <br/>
 
